@@ -12,6 +12,3 @@ mean(mtcars$mpg)
 
 #Create a histogram for mpg variable in mtcars
 hist(mtcars$mpg)
-
-#Add some more code below as instructed, then commit to your repository
-plot(mtcars$mpg ~ mtcars$wt)
